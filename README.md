@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+A little bit about me:
 
 - 🔭 I’m a Data Scientist mainly working on computer vision and deep reinforcement learning projects. I also like drones (like, a lot)
 - 🔥 My favorite Deep Learning framework is PyTorch (Check my contribution(s) to their repository below)
