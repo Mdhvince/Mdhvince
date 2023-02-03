@@ -19,7 +19,7 @@ Tools you may see on my profile
 <!-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
   
 ### Stats
-![Mdhvince's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdhvince&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
+![Mdhvince's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdhvince&show_icons=true&theme=transparent&count_private=true&include_all_commits=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdhvince&layout=compact&theme=transparent&hide=jupyter%20notebook)](https://github.com/Mdhvince)
 
