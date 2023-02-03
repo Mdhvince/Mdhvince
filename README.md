@@ -19,6 +19,11 @@ Tools/languages you may see on my profile
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   
+### Stats
+![Mdhvince's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdhvince&show_icons=true&theme=vue-dark)
+
+
+  
 I can't wait to collaborate with you  
 📧 medhy.vinceslas@gmail.com
 
