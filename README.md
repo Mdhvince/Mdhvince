@@ -1,10 +1,27 @@
 ### Hi there 👋
 
-About me:
+Having worked in various fields and structures, I have gained strong expertise and a deep understanding of applying artificial intelligence, machine learning, and data science to different situations. I can intervene in most stages of the AI project lifecycle, with some areas where I specialize (🏅):
 
-- 🔭 I’m a Data Scientist mainly working on computer vision and deep reinforcement learning projects. I also like drones (a lot)
-- 🔥 My favorite Deep Learning framework is PyTorch (Check my contribution(s) to their repository below)
-- 👯 Most of my experience is in the automotive industry, however I am open to collaborate on any kind of projects
+__Responsible AI__
+- Ensuring the ethical use of developed artificial intelligence algorithms
+- Model interpretability
+- Counterfactuals analysis and what-if
+
+__Deep-learning and Human-level AI__ 🏅
+- Designing and training deep learning models for computer vision (PyTorch)
+- Developing advanced algorithms for reinforcement learning
+
+__Data Science | Machine Learning Operations__
+- Deploying models in production as REST APIs using Azure cloud
+- Using various tools for analysis and processing of massive data (Pyspark, SQL, Pandas)
+- Utilizing data visualization tools (matplotlib, seaborn, bokeh, chartjs, etc.)
+- Developing classic machine learning models for your various use cases
+
+__Technical Lead__
+- Team lead
+- Recruitment of technical profiles
+- Training, coaching, and upskilling profiles
+- Suggesting ideas for your AI strategy
 
 Tools you may see on my profile  
           
@@ -27,7 +44,7 @@ Tools you may see on my profile
 
 
   
-I can't wait to collaborate with you  
+Feel free to contact me now to discuss how my experience can benefit your company.   
 📧 medhy.vinceslas@gmail.com
 
 <!-- <span> 
