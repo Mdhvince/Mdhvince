@@ -1,21 +1,16 @@
 ### Hi there 👋
 
-Having worked in various fields and structures, I have gained strong expertise and a deep understanding of applying artificial intelligence, machine learning, and data science to different situations. I can intervene in most stages of the AI project lifecycle, with some areas where I specialize (🏅):
+Having worked in various fields and structures, I have gained solid expertise and a deep understanding of the application of artificial intelligence, machine learning, and data science to different situations. Today, I specialize in two fields which are:
 
-__Responsible AI__
-- Ensuring the ethical use of developed artificial intelligence algorithms
-- Model interpretability
-- Counterfactuals analysis and what-if
+👁️ __Computer Vision__
+Using image processing techniques and/or designing and training deep learning models for various tasks:
+- Detection/Classification of objects, anomalies, activities on videos, etc.
 
-__Deep-learning and Human-level AI__ 🏅
-- Designing and training deep learning models for computer vision (PyTorch)
-- Developing advanced algorithms for reinforcement learning
+🤖 __Reinforcement Learning__
+- Digitizing business problems in order to track algorithm performance in a simulation environment.
+- Solving complex sequential decision-making problems using reinforcement learning algorithms.
 
-__Data Science | Machine Learning Operations__
-- Deploying models in production as REST APIs using Azure cloud
-- Using various tools for analysis and processing of massive data (Pyspark, SQL, Pandas)
-- Utilizing data visualization tools (matplotlib, seaborn, bokeh, chartjs, etc.)
-- Developing classic machine learning models for your various use cases
+Of course, I also work on Data Science/Engineering projects for data processing, analysis, visualization, and development/training of deep learning/machine learning models for your use cases.
 
 __Technical Lead__
 - Team lead
