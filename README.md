@@ -1,22 +1,4 @@
-### Hi there 👋
-
-Having worked in various fields and structures, I have gained solid expertise and a deep understanding of the application of artificial intelligence, machine learning, and data science to different situations. Today, I specialize in two fields which are:
-
-👁️ __Computer Vision__
-Using image processing techniques and/or designing and training deep learning models for various tasks:
-- Detection/Classification of objects, anomalies, activities on videos, etc.
-
-🤖 __Reinforcement Learning__
-- Digitizing business problems in order to track algorithm performance in a simulation environment.
-- Solving complex sequential decision-making problems using reinforcement learning algorithms.
-
-Of course, I also work on Data Science/Engineering projects for data processing, analysis, visualization, and development/training of deep learning/machine learning models for your use cases.
-
-__Technical Lead__
-- Team lead
-- Recruitment of technical profiles
-- Training, coaching, and upskilling profiles
-- Suggesting ideas for your AI strategy
+### Hi 👋
 
 Tools you may see on my profile  
           
