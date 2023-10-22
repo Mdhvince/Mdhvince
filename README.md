@@ -1,4 +1,8 @@
-### Hi 👋
+### Hi 👋  
+
+<p align="center">
+  <img src="https://github.com/Mdhvince/Mdhvince/assets/17160701/1c15deec-d746-4fac-b922-c4300b615c67" alt="animated" />
+</p>
 
 
 | **Data** | **ML / Deep Learning** | **Computer Vision** | **Visualization** | **Languages** | **Cloud** | **Other** |
@@ -23,18 +27,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdhvince&layout=compact&theme=transparent&hide=jupyter%20notebook)](https://github.com/Mdhvince)
 
 
-
-
-
-<!-- <span> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=70, width=70/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" height=70, width=70/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height=70, width=70/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height=70, width=70/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height=70, width=70/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height=70, width=70/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=70, width=70/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height=70, width=70/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height=70, width=70/>
-          
-<span/> -->
