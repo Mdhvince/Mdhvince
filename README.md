@@ -1,9 +1,10 @@
-### Hi 👋  
+<h3 align="center"> 👋 </h3>
 
 <p align="center">
   <img src="https://github.com/Mdhvince/Mdhvince/assets/17160701/1c15deec-d746-4fac-b922-c4300b615c67" alt="animated" />
 </p>
-
+<br>
+<br>
 
 | **Data** | **ML / Deep Learning** | **Computer Vision** | **Visualization** | **Languages** | **Cloud** | **Other** |
 |:--------:|:----------------------:|:-------------------:|:-----------------:|:-------------:|:---------:|:---------:|
@@ -12,18 +13,22 @@
 | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) | | | | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) | | |
 | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | | | | | | |
 
+<br>
+<br>
 
+<h3 align="center"> Open-source contributions  </h3>
 
-### Open-source contributions  
-
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/pytorch/tutorials/pull/2110)
-
-
+<p align="center">
+  <a href="https://github.com/pytorch/tutorials/pull/2110">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  </a>
+</p>
 
   
-### Stats
-![Mdhvince's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdhvince&show_icons=true&theme=transparent&count_private=true&include_all_commits=false)
+<h3 align="center"> Stats  </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdhvince&layout=compact&theme=transparent&hide=jupyter%20notebook)](https://github.com/Mdhvince)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mdhvince&show_icons=true&theme=transparent&count_private=true&include_all_commits=false"/><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdhvince&layout=compact&theme=transparent&hide=jupyter%20notebook"/>
+</p>
 
