@@ -1,5 +1,3 @@
-<h3 align="center"> 👋 </h3>
-
 <p align="center">
   <img src="https://media.giphy.com/media/vysUmffUa9o4g/giphy.gif" alt="animated" />
 </p>
