@@ -1,7 +1,7 @@
 <h3 align="center"> 👋 </h3>
 
 <p align="center">
-  <img src="https://github.com/Mdhvince/Mdhvince/assets/17160701/1c15deec-d746-4fac-b922-c4300b615c67" alt="animated" />
+  <img src="https://media.giphy.com/media/vysUmffUa9o4g/giphy.gif" alt="animated" />
 </p>
 <br>
 <br>
